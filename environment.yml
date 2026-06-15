@@ -1,7 +1,10 @@
-name: cookbook-dev
+name: feature-tracking-dev
 channels:
   - conda-forge
 dependencies:
   - jupyterlab
   - mystmd
   - jupyterlab-myst
+  - scipy
+  - numpy
+  - xarray
