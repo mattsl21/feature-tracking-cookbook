@@ -8,3 +8,5 @@ dependencies:
   - scipy
   - numpy
   - xarray
+  - metpy
+  - scikit-image
