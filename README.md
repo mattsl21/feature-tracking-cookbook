@@ -2,9 +2,9 @@
 
 <img src="thumbnails/thumbnail.png" alt="thumbnail" width="300"/>
 
-[![nightly-build](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml)
-[![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
-[![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
+[![nightly-build](https://github.com/ProjectPythia/feature-tracking-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/feature-tracking-cookbook/actions/workflows/nightly-build.yaml)
+[![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/feature-tracking-cookbook/main?labpath=notebooks)
+[![DOI](https://zenodo.org/badge/1270409068.svg)](https://zenodo.org/badge/latestdoi/1270409068)
 
 _See the [Cookbook Contributor's Guide](https://projectpythia.org/cookbook-guide) for step-by-step instructions on how to create your new Cookbook and get it hosted on the [Pythia Cookbook Gallery](https://cookbooks.projectpythia.org)!_
 
@@ -20,8 +20,8 @@ First Author, Second Author, etc. _Acknowledge primary content authors here! You
 
 ### Contributors
 
-<a href="https://github.com/ProjectPythia/cookbook-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ProjectPythia/cookbook-template" />
+<a href="https://github.com/ProjectPythia/feature-tracking-cookbook/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ProjectPythia/feature-tracking-cookbook" />
 </a>
 
 ## Structure
