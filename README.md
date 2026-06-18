@@ -51,15 +51,15 @@ How to cite the cookbook.
 
 ### Section 3 Precipitation Tracking
 
-Example workflows include how to track precipitation over time.
+How to track precipitation over time.
 
 ### Section 4 Sea Level Pressure Tracking
 
-Example workflows include how to track sea level pressure over time.
+How to track sea level pressure over time.
 
 ### Section 5 Combined Tracking
 
-Example workflows include how to track sea level pressure and precipitation over time.
+How to track sea level pressure *and* precipitation over time.
 
 ### Section 6 Appendix
 
