@@ -8,21 +8,21 @@
 
 _See the [Cookbook Contributor's Guide](https://projectpythia.org/cookbook-guide) for step-by-step instructions on how to create your new Cookbook and get it hosted on the [Pythia Cookbook Gallery](https://cookbooks.projectpythia.org)!_
 
-This Project Pythia Cookbook covers how to identify and track meteorological features across space and time using three methods: Matplotlib, SciPy, and Scikit.
+This Project Pythia Cookbook covers how to identify and track meteorological features across space and time using three methods: `Matplotlib, SciPy, and Scikit.`
 
 
 ## Motivation
 
-Atmospheric phenomena of interest are almost always dynamically evolving and rapidly changing. Examples include thunderstorm complexes, tropical/extratropical cyclones, or precipitation shields. Students or researchers studying these features must first be able to identify and track them through concurrent time steps before any further analysis.  
+Atmospheric phenomena of interest are almost always dynamically evolving and rapidly changing. Examples include `thunderstorm complexes, tropical/extratropical cyclones, or precipitation shields.` **Students or researchers** studying these features must first be able to **identify and track** them through concurrent time steps before any further analysis.  
 
-Listed below is the workflow for identifying and tracking 2D geophysical features in gridded data.
+Listed below is the workflow for identifying and **tracking 2D geophysical features** in gridded data.
 
-More specifically, it is aimed at users who have fields such as sea-level pressure, precipitation, CWV, temperature, vorticity, or reflectivity, and want to:
+More specifically, it is aimed at users who have fields such as *sea-level pressure, precipitation, CWV, temperature, vorticity, or reflectivity*, and want to:
 
- - Identify spatial objects from a thresholded field
- - Compare different object-identification methods
- - Extract simple object properties such as area, centroid, and mask
- - Track those objects through time using frame-to-frame overlap
+ - **Identify** spatial objects from a thresholded field
+ - **Compare** different object-identification methods
+ - **Extract** simple object properties such as area, centroid, and mask
+ - **Track** those objects through time using frame-to-frame overlap
 
 
 
@@ -38,30 +38,30 @@ Matthew Lynne, Brian Rose, Sarah Ravellette, Snigdha Samantaray, Jacob Vile, Chr
 
 ## Structure
 
-This cookbook is broken up into three main sections: "Overview," "Precipitation," "and Sea Level Pressure"
+This cookbook is broken up into six main sections: *Preamble, Foundations, Precipitation Tracking, Sea Level Pressure Tracking, Combined Tracking, and Appendix.*
 
-### Section 1 "Preamble"
+### Section 1 Preamble
 
 How to cite the cookbook.
 
-### Section 2 "Foundations"
+### Section 2 Foundations
 
  - Foundational material about Matplotlib, SciPy, and Scikit.
  - Where to apply these tools.
 
-### Section 3 "Precipitation Tracking"
+### Section 3 Precipitation Tracking
 
 Example workflows include how to track precipitation over time.
 
-### Section 4 "Sea Level Pressure Tracking"
+### Section 4 Sea Level Pressure Tracking
 
 Example workflows include how to track sea level pressure over time.
 
-### Section 5 "Combined Tracking"
+### Section 5 Combined Tracking
 
 Example workflows include how to track sea level pressure and precipitation over time.
 
-### Section 6 "Appendix"
+### Section 6 Appendix
 
 Exploring data sources for ERA5.
 
